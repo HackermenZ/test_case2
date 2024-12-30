@@ -26,3 +26,9 @@ footer a{
 input+button{
     background-color: pink;
 }
+h2+button{
+    background-color: magenta;
+}
+footer>a{
+    color:darkslateblue;
+}
